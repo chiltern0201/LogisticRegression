@@ -171,3 +171,5 @@ initial_theta = [0,0]
 alpha = 0.1
 iterations = 1000
 ##Logistic_Regression(X,Y,alpha,initial_theta,iterations)
+
+##just some test here for git
